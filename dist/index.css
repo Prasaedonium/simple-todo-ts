@@ -1,0 +1,19 @@
+body {
+    /* background: #000; */
+    padding: 10vh 10vw;
+}
+/* 
+li {
+   color: white; 
+}
+
+h1 {
+    color: white;
+} */
+
+.form-check-input:before {
+    content: "\00a0 "; 
+}
+.form-check-input:after {
+    content: "\00a0 "; 
+}
